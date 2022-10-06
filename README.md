@@ -2,7 +2,7 @@
 
 ## 🗒️ Índice
 
-  - [🖇️ Links](#️-links)
+  - [🔗 Links](#️-links)
   - [1. Relembrar (ou conhecer) o Git e Github](#1-relembrar-ou-conhecer-o-git-e-github)
     - [📋 Objetivos Específicos](#-objetivos-específicos)
   - [2. Iniciar um projeto com Git e Github](#2-iniciar-um-projeto-com-git-e-github)
@@ -14,7 +14,7 @@
     - [📋 Objetivos Específicos](#-objetivos-específicos-2)
   - [🎁 Bônus](#-bônus)
 
-## 🖇️ Links
+## 🔗 Links
 
 - [**Clique aqui para acessar o vídeo da palestra**](https://youtu.be/6b-M2w0sPrA)
 
